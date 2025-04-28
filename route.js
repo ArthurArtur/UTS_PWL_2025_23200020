@@ -7,9 +7,9 @@ export async function POST(request) {
         });
     }
 
-    const matkul = await prisma.matkul.create({
+    const matkul = await prisma.preorder.create({
         data: { kode, nama },
     });
 
-    return new Response(JSON.stringify(matkul), { status: 201 });
+    return new Response(JSON.stringify(preorder), { status: 201 });
 }
