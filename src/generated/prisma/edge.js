@@ -105,7 +105,7 @@ exports.Prisma.ModelName = {
   preorder: 'preorder'
 };
 /**
- * Create the Client
+ * Create the Client (i'm so tired boss)
  */
 const config = {
   "generator": {
@@ -115,7 +115,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "D:\\SS\\2024 2025\\monolithic vs microservices\\uts_pwl_2025\\src\\generated\\prisma",
+      "value": "D:\\UTS_PWL_23200029\\2025_uts_pwl_23200029\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -129,7 +129,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "D:\\SS\\2024 2025\\monolithic vs microservices\\uts_pwl_2025\\prisma\\schema.prisma",
+    "sourceFilePath": "D:\\UTS_PWL_23200029\\2025_uts_pwl_23200029\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
