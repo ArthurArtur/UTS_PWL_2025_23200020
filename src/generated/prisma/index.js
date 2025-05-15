@@ -116,7 +116,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "D:\\UTS_PWL_23200029\\2025_uts_pwl_23200029\\src\\generated\\prisma",
+      "value": "D:\\UTS_PWL_2025_23200020\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -130,7 +130,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "D:\\UTS_PWL_23200029\\2025_uts_pwl_23200029\\prisma\\schema.prisma",
+    "sourceFilePath": "D:\\UTS_PWL_2025_232000209\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
