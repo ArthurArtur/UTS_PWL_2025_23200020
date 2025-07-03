@@ -21,3 +21,5 @@
     "eslint-config-next": "15.3.1"
   }
 }
+
+--script / build: "prisma generate && next build"
